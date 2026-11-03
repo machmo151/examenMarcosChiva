@@ -2,3 +2,4 @@ mkdir prog si bbdd
 touch prog/inde.php
 cp ../prog/index.php ../bbdd/consultaws.sql
 mkdir si/git
+cd si/git
