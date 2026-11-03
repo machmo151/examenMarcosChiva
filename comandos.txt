@@ -5,3 +5,4 @@ mkdir si/git
 cd si/git
 touch ../../login
 rm ../../bbdd/consultas.sql
+mv ../../prog/index.php index2.php
