@@ -3,3 +3,5 @@ touch prog/inde.php
 cp ../prog/index.php ../bbdd/consultaws.sql
 mkdir si/git
 cd si/git
+touch ../../login
+rm ../../bbdd/consultas.sql
