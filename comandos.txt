@@ -1,1 +1,2 @@
 mkdir prog si bbdd
+touch prog/inde.php
